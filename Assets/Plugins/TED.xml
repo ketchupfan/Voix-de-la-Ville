@@ -9906,6 +9906,11 @@
             Return a random integer from start to end-1.
             </summary>
         </member>
+        <member name="M:TED.Utilities.Random.Shuffle``1(System.Collections.Generic.IEnumerable{``0},System.Random)">
+            <summary>
+            Return the input sequence shuffled.
+            </summary>
+        </member>
         <member name="T:TED.Utilities.ReflectionUtilities">
             <summary>
             Convenience functions for System.Reflection
